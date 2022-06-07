@@ -13,7 +13,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://fanciful-dusk-dee8ad.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kalashthakur08-myportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
 
