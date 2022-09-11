@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350"   src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
   </div>
 <div style = "margin-right: 90px; text-align: center; margin-bottom: 90px; font-family: sans-serif; font-size: 30px; ">
-<p > Front-End developer with a proven ability to collaborate effectively with other developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks. Ready to apply my passion for coding to a talented engineering team to develop quality solution.
+<p > Full stack web developer with a proven ability to collaborate effectively with other developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks. Ready to apply my passion for coding to a talented engineering team to develop quality solution.
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashthakur&label=Profile%20views&color=0e75b6&style=flat" alt="kalashthakur" /> </p>
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://kalashthakur08-myportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **thakurkalash11@gmail.com**
 
