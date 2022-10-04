@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thakurkalash11@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1iivdBQqvkX6vGhB9W6sFieCDwgmv7cgG/edit?usp=sharing&ouid=105385110759399368148&rtpof=true&sd=true)
+- 📄 Know about my experiences [My Resume](file:///C:/Users/DELL/Downloads/Resume%20Kalash%20Thakur.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
